@@ -1,0 +1,1000 @@
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/Zaraimg000038.jpg 309,74,435,106,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_005224.jpg 80,236,406,432,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000101_37.jpg 394,29,416,67,0 171,126,191,148,0 484,94,534,118,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/volkswagenimg000005.jpg 638,471,657,492,0 987,372,1022,412,0 1237,735,1303,802,0 136,693,256,720,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/toyotaimg000543.jpg 276,92,320,101,0 81,187,104,207,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000070_90.jpg 499,245,1045,310,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_002280.jpg 467,1,634,295,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_000436.jpg 584,471,608,512,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/allianzimg000140.jpg 1610,268,1648,325,0 1478,251,1608,313,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_007453.jpg 173,282,656,754,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000029_50.jpg 295,177,482,328,0 365,496,461,559,0 646,824,760,874,0 843,875,866,913,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/bemwirelessimg000120.jpg 474,516,517,530,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/coach9.jpg 343,415,551,503,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000444_44.jpg 586,244,961,564,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/gillette3.jpg 144,91,171,171,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_003082.jpg 265,249,718,671,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/kiaimg000159.jpg 338,161,494,259,0 1454,398,1473,408,0 311,261,374,296,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/flickrlogo27_3118428220.jpg 15,249,129,359,0 157,42,297,172,0 386,238,466,312,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/mercedesbenzimg000186.jpg 595,583,827,809,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/targetimg000171.jpg 379,181,410,209,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/poloralphlauren3.jpg 237,109,249,137,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/boschimg000325.jpg 364,517,379,529,0 397,618,420,637,0 155,516,173,532,0 95,703,126,724,0 544,674,571,694,0 688,618,715,642,0 995,711,1022,732,0 543,577,562,590,0 961,668,1007,717,0 273,67,329,89,0 543,552,562,581,0 368,68,433,90,0 1,50,61,67,0 501,66,559,81,0 638,48,699,76,0 964,20,1033,46,0 379,519,410,529,0 317,617,391,639,0 112,668,150,705,0 544,692,571,732,0 718,617,792,641,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/jcrew17.jpg 181,221,427,344,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_006436.jpg 4,414,282,783,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/Lacoste_sportslogo_61.jpg 165,104,207,131,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/amazonimg000032.jpg 219,161,292,188,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_005778.jpg 412,339,458,381,0 624,338,661,384,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_006573.jpg 301,580,474,741,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/caterpillarimg000096.jpg 490,153,511,170,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_005760.jpg 187,114,247,189,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000090_39.jpg 254,118,314,132,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000050_34.jpg 324,161,371,182,0 190,133,220,188,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/panasonicimg000130.jpg 246,50,363,75,0 422,48,554,72,0 428,133,554,156,0 246,135,383,157,0 252,304,321,319,0 420,207,475,223,0 76,50,212,74,0 75,134,211,157,0 245,217,318,244,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000094_72.jpg 83,72,122,100,0 127,79,229,103,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/xbox8.jpg 9,10,79,85,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/nike35.jpg 178,166,235,279,0 332,227,447,317,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/BASFimg000188.jpg 473,489,544,504,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/targetimg000046.jpg 35,101,129,196,0 141,105,562,205,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/ANZ_sportslogo_51.jpg 70,53,143,77,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/coach35.jpg 287,213,363,226,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000113_100.jpg 677,205,806,261,0 611,199,670,263,0 775,101,792,153,0 793,48,835,128,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000155_102.jpg 87,179,112,201,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000270_60.jpg 860,398,898,433,0 146,552,160,565,0 457,595,467,611,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000172_91.jpg 488,238,728,315,0 528,318,692,380,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_003022.jpg 287,136,352,169,0 584,97,889,198,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_005391.jpg 158,213,479,412,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/evernote2.jpg 58,60,221,160,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_000089.jpg 388,286,649,553,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_002104.jpg 586,660,633,756,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/hmimg000019.jpg 413,18,458,64,0 231,277,248,289,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/uniqloimg000061.jpg 154,184,171,214,0 139,189,152,216,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/aralimg000032.jpg 697,497,752,560,0 535,750,618,842,0 1369,761,1476,861,0 1086,667,1117,686,0 884,667,912,686,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_001937.jpg 99,493,218,524,0 331,213,600,285,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/49218245.jpg 199,490,242,536,0 378,373,415,396,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/kodak10.jpg 115,127,147,149,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_001179.jpg 491,132,550,196,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_005324.jpg 103,275,192,338,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_001485.jpg 137,129,350,461,0 631,277,743,458,0 280,37,346,78,0 144,37,209,77,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/aralimg000052.jpg 89,6,146,70,0 340,229,352,243,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/northface5.jpg 55,528,261,634,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/FedEximg000155.jpg 176,34,300,93,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/NB_sportslogo_90.jpg 239,147,278,189,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/prada3.jpg 223,195,357,245,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_002657.jpg 226,570,660,757,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_006180.jpg 381,242,452,347,0 484,203,538,288,0 555,178,594,250,0 353,522,429,599,0 455,448,501,521,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_002116.jpg 261,619,366,724,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/santanderimg000086.jpg 174,97,225,128,0 105,45,130,70,0 23,12,42,31,0 47,16,110,29,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_003585.jpg 188,337,341,384,0 356,400,400,418,0 876,268,956,294,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/jcrew2.jpg 201,90,231,98,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000828_107.jpg 401,200,416,216,0 531,359,560,388,0 517,393,549,400,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_004550.jpg 323,384,473,464,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/visaimg000005.jpg 216,42,339,94,0 94,66,265,131,0 36,165,319,279,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_001107.jpg 420,415,463,452,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_002003.jpg 242,276,428,679,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/KIA_sportslogo_72.jpg 246,136,382,208,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_003366.jpg 74,382,133,420,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000238_44.jpg 47,80,184,131,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000134_16.jpg 20,33,674,642,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_004329.jpg 278,207,481,253,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/McDonaldsimg000211.jpg 205,34,583,289,0 230,302,559,344,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_006138.jpg 288,351,321,381,0 113,423,151,481,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_003386.jpg 7,22,107,93,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000000_41.jpg 653,21,701,59,0 583,88,787,123,0 454,280,501,290,0 641,265,686,274,0 134,268,161,288,0 47,480,124,493,0 533,501,578,513,0 634,460,717,476,0 791,469,815,494,0 390,264,423,301,0 712,187,761,196,0 191,486,213,506,0 334,496,349,510,0 190,275,236,285,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/Fly_Emirates_sportslogo_7.jpg 922,1124,1739,1497,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/rolex26.jpg 249,233,259,250,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000172_96.jpg 88,141,125,177,0 245,212,285,224,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_001902.jpg 530,400,703,556,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/hsbcimg000073.jpg 508,227,720,422,0 64,3,547,402,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/Belgalogos_07643654.jpg 224,298,263,323,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_000994.jpg 476,24,554,85,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/shellimg000179.jpg 312,293,334,312,0 6,306,24,323,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/audiimg000444.jpg 696,290,752,353,0 258,506,342,574,0 290,129,337,188,0 461,169,536,222,0 662,112,728,180,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/IBM_sportslogo_76.jpg 322,442,468,504,0 846,558,928,596,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_002834.jpg 74,255,183,277,0 654,308,926,353,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/shellimg000251.jpg 377,457,393,476,0 138,107,219,186,0 606,139,665,192,0 244,433,254,445,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000087_47.jpg 196,98,302,123,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/McDonaldsimg000064.jpg 130,287,193,384,0 564,93,584,130,0 444,85,556,126,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/abusimg000065.jpg 733,474,830,798,0 756,224,906,507,0 424,274,513,589,0 290,216,416,516,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/essoimg000037.jpg 388,112,430,143,0 138,85,192,115,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_005266.jpg 209,339,479,489,0 246,624,292,645,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/2556415372.jpg 302,474,476,622,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/Belgalogos_07691648.jpg 45,304,122,378,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/4041757119.jpg 367,153,481,304,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/3329026847.jpg 2,561,204,790,0 42,596,489,833,0 496,643,681,890,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000401_51.jpg 756,722,1212,897,0 1398,875,1545,931,0 2665,761,2843,845,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/BlackMore_sportslogo_46.jpg 15,123,149,144,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/3572752214.jpg 231,308,578,838,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/flickrlogo27_2941703909.jpg 24,44,147,171,0 43,172,135,254,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_002080.jpg 530,293,925,487,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/lexus3.jpg 912,380,934,396,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/nescafeimg000010.jpg 108,259,299,313,0 460,243,552,271,0 694,164,804,194,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000178_50.jpg 721,223,794,244,0 61,380,84,400,0 92,359,119,385,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/3210104123.jpg 581,413,729,668,0 503,368,562,481,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/mercedesbenzimg000068.jpg 254,218,325,288,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/Belgalogos_07638377.jpg 449,376,487,398,0 438,430,531,455,0 372,325,470,352,0 436,393,517,418,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/armitronimg000043.jpg 197,174,247,189,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/CVSimg000129.jpg 512,705,1185,1305,0 1741,268,1843,591,0 1792,895,1932,925,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000180_37.jpg 1117,85,1417,363,0 1182,411,1205,437,0 963,236,982,253,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/huaweiimg000039.jpg 120,32,403,246,0 114,266,402,316,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000101_47.jpg 590,202,746,251,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_000980.jpg 177,686,274,794,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000537_44.jpg 529,403,745,495,0 368,483,537,567,0 393,157,472,184,0 551,109,625,129,0 130,306,316,391,0 86,238,187,279,0 19,350,109,395,0 65,430,208,502,0 3,531,142,619,0 240,1,352,120,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/bemwirelessimg000130.jpg 8,109,34,120,0 162,110,188,121,0 316,110,344,124,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000396_77.jpg 85,152,93,159,0 216,152,230,168,0 162,51,193,86,0 268,74,288,105,0 194,69,265,92,0 319,88,335,109,0 78,140,88,150,0 87,140,96,149,0 96,140,106,151,0 142,143,152,152,0 150,143,158,152,0 165,144,173,153,0 172,144,181,152,0 193,146,200,153,0 205,147,212,155,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/recycling19.jpg 143,901,436,1157,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/michelin4.jpg 364,266,837,355,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000005_96.jpg 617,136,808,322,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/caterpillarimg000092.jpg 95,232,117,246,0 398,254,422,271,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_002391.jpg 377,585,666,684,0 845,218,964,261,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000368_44.jpg 28,110,82,128,0 184,211,284,244,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/caterpillarimg000078.jpg 488,484,502,494,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/flickrlogo27_4581405295.jpg 131,318,315,475,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_002076.jpg 649,192,710,222,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/allianzimg000322.jpg 316,73,347,101,0 206,74,311,98,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000105_40.jpg 542,238,585,322,0 885,361,928,421,0 1190,498,1225,532,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/intelimg000154.jpg 22,665,72,698,0 215,350,284,396,0 605,354,681,402,0 999,352,1075,402,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/uniqloimg000013.jpg 264,67,341,124,0 287,333,305,352,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/wellsfargoimg000199.jpg 50,125,106,153,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_003959.jpg 4,78,56,163,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000233_82.jpg 31,211,227,330,0 256,136,357,210,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/flickrlogo27_3213763363.jpg 95,78,276,233,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/ebay33.jpg 359,111,438,149,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/BlackMore_sportslogo_65.jpg 173,352,509,399,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/prada42.jpg 194,207,404,270,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_007604.jpg 112,488,332,767,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000164_72.jpg 885,482,928,517,0 548,639,560,654,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/tommyhilfiger26.jpg 264,273,302,306,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000331_57.jpg 147,57,298,116,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_005448.jpg 745,151,774,181,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000241_80.jpg 254,42,508,248,0 271,198,514,343,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000297_57.jpg 160,210,244,235,0 24,217,137,255,0 256,204,313,225,0 317,197,362,215,0 365,195,399,211,0 401,192,425,206,0 427,191,446,202,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_005423.jpg 649,380,703,416,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000099_36.jpg 816,640,965,701,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000065_104.jpg 602,262,665,320,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000054_79.jpg 151,192,311,236,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/gap1.jpg 262,777,778,1143,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/Hisense_sportslogo_101.jpg 53,150,593,246,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_002594.jpg 57,77,334,503,0 346,179,574,557,0 552,141,776,521,0 827,251,1011,571,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/McDonaldsimg000162.jpg 421,14,485,69,0 232,251,253,273,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/BMWimg000365.jpg 184,112,199,119,0 608,27,629,47,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/loreal1.jpg 319,167,524,200,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/5199807260.jpg 403,126,562,289,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000285_83.jpg 721,409,750,442,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/wellsfargoimg000100.jpg 195,177,303,222,0 415,175,520,220,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000324_57.jpg 50,161,462,236,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/aralimg000061.jpg 240,25,304,96,0 659,174,675,211,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000511_33.jpg 1470,777,1524,800,0 1811,1164,1887,1238,0 831,938,848,962,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_002501.jpg 671,376,749,501,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/flickrlogo27_388483008.jpg 18,27,436,445,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000271_102.jpg 153,145,168,158,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/hyundaiimg000264.jpg 28,108,46,121,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/armani1.jpg 241,103,260,119,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000056_101.jpg 326,96,476,187,0 1058,148,1207,199,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_003598.jpg 233,224,380,281,0 435,272,482,292,0 824,235,884,265,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_004890.jpg 361,454,607,832,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000034_3.jpg 439,185,500,206,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/lego16.jpg 58,17,105,68,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/burgerkingimg000130.jpg 25,37,201,198,0 424,255,462,346,0 740,289,773,331,0 1074,271,1165,350,0 780,298,951,341,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/KIA_sportslogo_69.jpg 2,88,286,208,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_001501.jpg 888,241,962,307,0 871,439,936,612,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000297_77.jpg 417,171,602,261,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/renault17.jpg 150,278,215,366,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/hondaimg000188.jpg 184,195,213,221,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/costcoimg000014.jpg 152,60,374,147,0 455,275,483,282,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/Belgalogos_07674996.jpg 334,326,400,351,0 433,740,476,770,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/allianzimg000307.jpg 298,86,335,120,0 184,44,291,105,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/redbullimg000666.jpg 299,182,348,202,0 509,281,522,313,0 502,319,522,373,0 296,204,347,220,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/76570727.jpg 411,557,632,911,0 491,277,563,353,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/bankofamericaimg000120.jpg 261,3,302,23,0 127,4,258,22,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/gucciimg000100.jpg 87,704,281,742,0 429,685,465,696,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/Lacoste_sportslogo_52.jpg 546,71,739,156,0 337,270,374,293,0 497,272,532,294,0 659,271,695,293,0 820,272,854,295,0 979,275,1015,296,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_004265.jpg 653,67,722,102,0 302,1,339,18,0 116,606,160,645,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/heinekenimg000288.jpg 565,211,666,382,0 644,570,726,731,0 721,690,968,767,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/toyotaimg000555.jpg 153,368,193,398,0 245,82,290,122,0 662,235,680,264,0 290,102,393,171,0 660,259,685,282,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/gilletteimg000179.jpg 522,208,564,223,0 60,12,99,24,0 282,182,304,241,0 169,335,219,351,0 7,10,110,45,0 277,180,338,326,0 96,332,220,382,0 460,207,562,246,0 469,533,581,565,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_001575.jpg 469,187,564,222,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_005069.jpg 476,196,548,288,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000174_98.jpg 171,29,589,440,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/budweiserimg000116.jpg 49,380,150,429,0 208,211,272,243,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/timberland29.jpg 120,219,152,264,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_000784.jpg 420,545,611,845,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/michelin20.jpg 46,484,179,527,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_006313.jpg 631,116,681,180,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_000273.jpg 431,134,605,430,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_005062.jpg 41,354,65,376,0 995,307,1022,339,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/essoimg000035.jpg 249,178,529,377,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/subaru21.jpg 719,312,737,329,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000765_44.jpg 182,361,327,414,0 78,388,194,500,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/2040851413.jpg 581,218,780,463,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/tmobileimg000210.jpg 262,41,354,88,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_006270.jpg 441,105,986,402,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/Belgalogos_07599309.jpg 234,974,355,1068,0 278,451,491,577,0 354,363,423,402,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/IBMimg000044.jpg 66,1,773,320,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_001390.jpg 490,278,531,318,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000030_40.jpg 68,53,90,66,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/volkswagenimg000690.jpg 360,77,640,389,0 752,334,774,358,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_002807.jpg 89,276,193,297,0 651,317,926,370,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000076_3.jpg 12,14,61,29,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_002218.jpg 546,166,656,281,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/2348310765.jpg 157,310,198,374,0 752,346,779,430,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/3498185420.jpg 654,302,710,385,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/porscheimg000078.jpg 236,616,859,689,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000053_79.jpg 180,250,361,300,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_004675.jpg 533,287,666,395,0 681,245,897,376,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/Fly_Emirates_sportslogo_95.jpg 2,238,816,522,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/Belgalogos_07666975.jpg 245,665,290,687,0 614,703,656,732,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/boschimg000312.jpg 88,191,114,216,0 46,249,57,260,0 99,251,106,259,0 99,311,111,325,0 109,368,119,384,0 50,370,57,384,0 37,311,48,323,0 278,326,329,344,0 185,334,241,350,0 579,330,622,350,0 58,248,84,257,0 110,249,136,260,0 112,312,140,320,0 50,312,78,322,0 118,369,142,380,0 58,371,83,380,0 56,145,147,168,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/costcoimg000162.jpg 224,101,416,192,0 761,331,796,339,0 859,345,890,355,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_003624.jpg 292,302,401,364,0 177,143,216,163,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_003045.jpg 133,681,208,760,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000003_16.jpg 141,433,159,469,0 433,392,457,438,0 708,461,728,491,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/flickrlogo27_4448830339.jpg 209,6,238,19,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/poloralphlauren1.jpg 364,359,397,420,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000333_91.jpg 2870,1197,3181,1580,0 1379,1245,1759,1594,0 297,1476,342,1496,0 923,1482,957,1504,0 954,1481,1042,1505,0 339,1480,437,1501,0 921,1510,990,1534,0 989,1509,1035,1532,0 374,1508,434,1528,0 297,1501,371,1532,0 2254,1464,2286,1486,0 2286,1462,2362,1481,0 2250,1490,2315,1520,0 2314,1490,2361,1518,0 3470,1420,3529,1472,0 3529,1429,3566,1477,0 3502,1374,3567,1412,0 3473,1364,3502,1402,0 2827,1340,2858,1358,0 2826,1280,2858,1296,0 2824,1193,2858,1215,0 2819,1171,2861,1192,0 2829,1150,2853,1173,0 2824,1220,2858,1237,0 2286,1652,2313,1698,0 345,1652,378,1692,0 963,1654,990,1690,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/volkswagenimg000157.jpg 521,265,541,283,0 97,253,112,265,0 136,96,303,128,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/422445760.jpg 87,200,334,598,0 724,190,976,593,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_003877.jpg 684,570,873,767,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/hanes3.jpg 627,189,698,245,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_002861.jpg 464,311,511,325,0 528,313,612,346,0 744,321,802,332,0 815,320,871,349,0 697,220,738,242,0 931,326,981,336,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_001488.jpg 440,584,590,722,0 316,824,529,893,0 473,346,602,465,0 341,577,389,622,0 644,426,698,478,0 556,139,613,189,0 374,208,433,249,0 143,333,197,381,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000049_104.jpg 303,323,356,397,0 528,375,579,410,0 73,533,93,555,0 138,522,156,541,0 32,515,50,532,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/MediBank_sportslogo_69.jpg 89,318,675,414,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_003606.jpg 215,282,380,339,0 407,357,447,375,0 841,280,913,310,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/346789531.jpg 2,46,206,328,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/Belgalogos_07599423.jpg 245,353,265,377,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/JacobsCreek_sportslogo_12.jpg 112,237,184,247,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/heinekenimg000137.jpg 195,125,391,260,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/hpimg000072.jpg 508,555,569,614,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000494_78.jpg 239,194,268,229,0 473,329,507,362,0 514,333,612,347,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/chanelimg000268.jpg 624,884,709,903,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000118_36.jpg 384,453,487,513,0 1266,303,1394,362,0 892,68,1103,195,0 888,218,1100,330,0 890,360,1103,478,0 890,507,1092,610,0 892,651,1092,759,0 898,793,1096,904,0 892,931,1093,1054,0 1119,75,1287,185,0 1102,788,1257,885,0 1099,941,1220,1052,0 1570,78,1755,171,0 1570,211,1755,312,0 1563,359,1755,465,0 1547,515,1755,621,0 1555,648,1755,757,0 1552,804,1754,894,0 1546,947,1754,1051,0 1364,944,1539,1042,0 1387,80,1557,186,0 514,130,790,282,0 82,113,325,247,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000350_100.jpg 4465,1670,6272,2289,0 3297,2007,4328,3301,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/coca-colaimg000451.jpg 141,120,410,321,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_007760.jpg 113,1,329,224,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_001800.jpg 6,529,400,899,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/louisvuittonimg000037.jpg 878,987,925,1072,0 1186,984,1260,1071,0 851,1226,902,1310,0 825,1463,903,1548,0 1271,1440,1332,1527,0 1224,1212,1306,1295,0 646,1433,695,1515,0 693,1206,739,1280,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000324_44.jpg 36,609,165,681,0 276,315,449,395,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/Head_sportslogo_47.jpg 83,30,156,46,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/mastercard29.jpg 280,172,405,246,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000497_87.jpg 254,226,427,404,0 231,431,435,498,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000032_96.jpg 365,43,392,62,0 372,110,386,122,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/3362254118.jpg 235,237,468,469,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000081_37.jpg 838,145,1342,461,0 1217,791,1264,859,0 688,66,820,223,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/Belgalogos_07603914.jpg 252,204,359,254,0 410,230,495,301,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/nissanimg000163.jpg 145,214,173,242,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/toyotaimg000516.jpg 467,149,504,171,0 280,22,366,77,0 269,79,379,105,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_004757.jpg 851,606,930,647,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/hershey8.jpg 173,267,428,406,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000117_102.jpg 118,291,137,308,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_004240.jpg 315,33,649,159,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/Fly_Emirates_sportslogo_48.jpg 1032,167,1129,189,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000222_98.jpg 272,90,594,405,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000013_20.jpg 610,209,694,254,0 704,55,875,150,0 618,251,687,280,0 730,186,863,237,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/goodyear10.jpg 282,266,814,342,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/1468736300.jpg 28,2,431,373,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/3484102206.jpg 97,96,399,391,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_007036.jpg 199,483,406,700,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_003246.jpg 322,60,1023,745,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/carters12.jpg 32,52,85,75,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/coca-colaimg000249.jpg 29,565,191,623,0 276,557,399,601,0 486,564,629,621,0 58,129,167,163,0 285,111,391,149,0 510,135,615,170,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/puma14.jpg 226,159,339,245,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/bayer18.jpg 595,309,639,349,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000550_57.jpg 53,194,314,240,0 61,57,168,158,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000563_44.jpg 129,657,208,693,0 242,655,321,688,0 356,657,439,689,0 464,658,546,692,0 576,655,656,692,0 687,655,769,692,0 87,1050,190,1136,0 229,1017,308,1164,0 330,1055,438,1136,0 470,1009,554,1154,0 578,1052,687,1137,0 716,1017,797,1159,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000061_50.jpg 296,109,355,149,0 132,1,179,68,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_007831.jpg 178,114,845,907,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/obey41.jpg 191,278,500,404,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/flickrlogo27_3761584256.jpg 86,149,283,339,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_004405.jpg 72,229,273,503,0 258,216,298,258,0 663,373,809,470,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/hanes8.jpg 80,201,104,220,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/burgerkingimg000001.jpg 183,251,216,314,0 670,253,695,315,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_001216.jpg 201,145,242,220,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000779_44.jpg 445,400,476,438,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/kiaimg000020.jpg 277,416,330,435,0 952,650,972,663,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/Belgalogos_07596682.jpg 328,1043,375,1074,0 565,729,602,757,0 320,1070,389,1090,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/essoimg000151.jpg 117,25,201,70,0 110,250,154,268,0 431,257,472,274,0 307,268,343,282,0 653,265,691,281,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000257_96.jpg 86,97,177,130,0 150,138,163,148,0 80,1,182,68,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_005442.jpg 254,21,419,234,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000043_50.jpg 406,85,490,117,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000307_100.jpg 418,231,466,243,0 200,168,225,200,0 37,92,51,121,0 467,123,475,131,0 476,121,488,129,0 488,120,497,129,0 466,131,475,139,0 477,129,487,139,0 488,129,497,138,0 467,140,476,149,0 477,140,488,147,0 488,139,497,146,0 467,149,477,158,0 477,148,488,157,0 488,147,498,156,0 466,158,476,167,0 476,158,488,166,0 488,157,498,164,0 467,166,476,175,0 478,166,487,174,0 489,166,497,175,0 335,137,341,142,0 335,144,340,151,0 342,136,349,143,0 341,143,349,151,0 343,151,349,158,0 343,159,349,166,0 343,166,349,173,0 343,173,349,180,0 336,173,342,180,0 428,168,436,177,0 427,161,436,169,0 426,152,436,160,0 427,144,435,151,0 427,135,435,143,0 426,126,435,135,0 382,131,390,139,0 381,139,389,147,0 382,147,390,155,0 382,171,391,178,0 382,155,390,163,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/Belgalogos_07603446.jpg 72,314,186,369,0 264,346,346,404,0 540,266,629,324,0 387,258,485,311,0 531,235,552,258,0 388,229,419,261,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000097_82.jpg 94,937,676,1123,0 944,1335,1196,1429,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/essoimg000229.jpg 98,146,151,190,0 359,215,407,238,0 337,345,361,357,0 416,340,445,353,0 212,354,233,365,0 468,348,488,357,0 99,198,134,213,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_007725.jpg 602,208,650,287,0 180,370,215,418,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/2587364969.jpg 379,57,618,214,0 180,284,349,394,0 578,317,754,399,0 417,486,606,577,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/niveaimg000282.jpg 373,83,388,90,0 391,205,411,214,0 683,129,722,143,0 738,132,772,148,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_006421.jpg 404,254,665,639,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000335_57.jpg 80,251,106,323,0 185,634,261,654,0 1,629,547,692,0 84,440,165,474,0 265,415,274,434,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000020_70.jpg 84,58,142,91,0 188,80,284,118,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000037_37.jpg 191,79,210,116,0 212,88,301,128,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000289_84.jpg 38,364,128,391,0 489,520,509,532,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/obey40.jpg 74,14,544,231,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/starbucksimg000171.jpg 886,467,945,529,0 1225,290,1248,330,0 1267,297,1289,337,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000215_98.jpg 93,79,153,143,0 165,125,246,169,0 23,126,86,173,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000078_70.jpg 46,40,105,65,0 135,100,179,118,0 320,138,360,155,0 265,34,315,64,0 333,26,379,43,0 306,59,359,86,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000093_84.jpg 497,399,603,443,0 602,277,626,290,0 685,284,704,295,0 196,428,227,441,0 112,499,157,512,0 63,354,89,370,0 962,335,976,396,0 227,327,243,335,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/5032327896.jpg 31,735,123,773,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_007083.jpg 255,421,549,616,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000340_44.jpg 57,191,350,298,0 480,223,546,260,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_001805.jpg 112,679,301,727,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/targetimg000001.jpg 299,94,378,174,0 385,102,713,170,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000071_79.jpg 285,625,595,750,0 80,585,104,702,0 38,542,55,663,0 52,553,73,673,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000257_64.jpg 60,149,86,164,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/bbva27.jpg 136,65,364,143,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/targetimg000356.jpg 990,462,1041,543,0 511,407,600,505,0 261,484,280,530,0 296,472,321,522,0 344,462,366,514,0 702,546,729,578,0 878,557,902,583,0 1164,709,1180,723,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/heinekenimg000263.jpg 94,61,121,105,0 123,184,200,224,0 116,154,137,197,0 427,294,488,307,0 1,223,500,326,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_001381.jpg 139,210,265,339,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/gilletteimg000337.jpg 223,349,369,389,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_001659.jpg 176,120,388,676,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_000166.jpg 199,232,468,503,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/audiimg000337.jpg 714,430,767,454,0 987,127,1080,154,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/canonimg000215.jpg 171,242,223,255,0 638,179,703,196,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/JacobsCreek_sportslogo_15.jpg 130,138,383,173,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/Lacoste_sportslogo_33.jpg 111,268,155,296,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/MK19.jpg 71,197,269,381,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000010_32.jpg 65,139,111,158,0 374,124,422,144,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_000985.jpg 280,587,402,686,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/flickrlogo27_1412494805.jpg 299,158,335,219,0 45,281,175,323,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/Belgalogos_07660808.jpg 469,699,490,715,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/ikea7.jpg 51,126,522,217,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/1485104539.jpg 204,61,452,186,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/McDonaldsimg000638.jpg 134,227,170,261,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/bottegaveneta26.jpg 143,133,225,146,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/coca-colaimg000033.jpg 419,1035,727,1132,0 1527,76,1759,164,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_000404.jpg 681,469,724,525,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/heinekenimg000127.jpg 230,652,470,701,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/Walmartimg000090.jpg 633,238,1232,422,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_004210.jpg 475,409,544,436,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000086_78.jpg 475,134,580,155,0 560,15,596,75,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/burgerkingimg000362.jpg 287,482,378,569,0 221,212,265,258,0 394,241,446,260,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_005481.jpg 359,145,447,210,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_002058.jpg 131,184,216,387,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000099_41.jpg 65,70,164,94,0 544,260,768,305,0 336,2,423,72,0 49,669,93,723,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/nescafeimg000064.jpg 86,71,205,114,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/costcoimg000000.jpg 704,193,994,257,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/reebok32.jpg 1085,224,1131,289,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000068_62.jpg 305,102,492,200,0 257,305,392,362,0 353,5,453,90,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_001565.jpg 609,192,685,264,0 333,358,399,519,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000081_11.jpg 331,391,344,406,0 345,383,408,401,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000068_44.jpg 66,31,487,252,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/visaimg000001.jpg 532,713,1025,1063,0 772,352,1266,591,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/yamaha32.jpg 520,366,581,433,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_004159.jpg 736,360,758,389,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/redbullimg000545.jpg 818,336,859,361,0 62,178,90,198,0 473,181,557,195,0 647,266,814,295,0 278,262,391,350,0 714,285,872,328,0 190,250,273,284,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/evernote9.jpg 412,135,469,208,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_007246.jpg 656,322,717,438,0 547,257,579,292,0 294,225,320,265,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/McDonaldsimg000088.jpg 507,388,616,561,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000028_68.jpg 105,561,357,736,0 507,683,1025,912,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/Lacoste_sportslogo_88.jpg 418,197,914,712,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_000355.jpg 492,122,537,229,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000012_62.jpg 85,103,311,245,0 130,53,251,132,0 381,144,473,265,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/marlboroimg000086.jpg 371,557,439,586,0 396,539,418,557,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_004313.jpg 301,7,577,99,0 198,512,353,568,0 579,513,717,572,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000335_4.jpg 231,239,256,259,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_000693.jpg 207,156,590,572,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000015_101.jpg 359,508,552,552,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/hondaimg000189.jpg 351,135,360,147,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/hmimg000028.jpg 64,20,447,308,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_000549.jpg 269,105,704,642,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_007087.jpg 209,101,333,188,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/flickrlogo27_2792546855.jpg 3,64,495,268,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/bemwirelessimg000074.jpg 405,538,622,705,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/MediBank_sportslogo_33.jpg 181,279,269,312,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/targetimg000409.jpg 757,140,955,351,0 746,345,973,428,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/hyundaiimg000422.jpg 137,192,157,204,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000303_84.jpg 391,329,474,352,0 379,71,423,88,0 627,443,722,492,0 671,104,695,112,0 100,241,123,257,0 325,97,344,105,0 283,160,303,167,0 324,159,343,167,0 242,221,261,227,0 282,221,302,227,0 244,279,264,287,0 283,280,303,286,0 245,336,266,344,0 539,107,556,114,0 575,108,594,116,0 558,328,575,336,0 531,277,548,284,0 537,163,553,172,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_005860.jpg 446,176,546,293,0 568,166,659,276,0 686,150,769,252,0 805,138,874,239,0 892,130,955,227,0 976,116,1019,212,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/2650497045.jpg 35,23,114,102,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000605_107.jpg 592,275,623,310,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000152_107.jpg 1927,1054,2011,1131,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_004360.jpg 221,541,395,727,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/bbva20.jpg 199,84,225,103,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/Gucci47.jpg 105,92,163,108,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_004976.jpg 888,308,934,333,0 539,199,592,222,0 139,271,185,308,0 196,232,245,273,0 277,264,327,305,0 339,224,388,268,0 628,213,681,249,0 650,282,698,325,0 499,287,556,327,0 563,250,620,291,0 476,218,530,261,0 215,300,267,330,0 357,293,408,327,0 417,256,469,295,0 400,204,452,225,0 252,203,302,237,0 115,202,164,242,0 73,242,109,279,0 923,199,954,233,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/cartierimg000250.jpg 223,307,264,316,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/flickrlogo27_4013254976.jpg 2,8,98,87,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000137_100.jpg 623,258,890,378,0 653,22,869,278,0 608,642,622,656,0 672,637,683,652,0 705,635,716,648,0 737,631,748,646,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_000450.jpg 251,118,299,198,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/fritolaysimg000066.jpg 266,202,315,233,0 193,199,247,245,0 391,211,449,251,0 124,196,177,241,0 580,193,633,235,0 325,200,386,228,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/lamborghini13.jpg 176,521,204,547,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/caterpillarimg000188.jpg 379,151,407,188,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/pizzahutimg000159.jpg 1132,217,2456,675,0 3150,475,3424,881,0 603,428,1090,731,0 2924,365,3161,596,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/hmimg000156.jpg 192,35,275,97,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/kraftimg000058.jpg 96,54,174,85,0 39,123,69,137,0 136,167,223,186,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/wii8.jpg 118,15,167,44,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/Belgalogos_07699957.jpg 486,275,520,297,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/Belgalogos_07673839.jpg 284,127,312,142,0 423,417,450,436,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/costcoimg000058.jpg 105,136,158,149,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/amazonimg000082.jpg 47,54,761,416,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/BlackMore_sportslogo_59.jpg 136,203,562,260,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/kiaimg000207.jpg 322,151,387,194,0 614,233,626,239,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_006739.jpg 473,144,550,220,0 51,298,122,371,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_006893.jpg 486,254,602,415,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_007160.jpg 55,553,222,806,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/adidasimg000462.jpg 675,268,823,385,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/chanel45.jpg 288,235,378,316,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/3852881079.jpg 429,316,766,883,0 41,145,371,483,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/chiquita31.jpg 325,191,542,491,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/shellimg000166.jpg 351,64,375,88,0 498,80,527,116,0 523,122,531,132,0 191,135,198,144,0 502,122,523,132,0 167,134,191,143,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/volkswagenimg000360.jpg 459,440,537,515,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/converse6.jpg 69,25,143,91,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/KIA_sportslogo_89.jpg 466,78,718,204,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/budweiserimg000216.jpg 696,373,819,442,0 156,170,819,269,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/flickrlogo27_3521287781.jpg 95,134,178,217,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_002500.jpg 101,568,302,899,0 358,553,556,857,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_001545.jpg 492,221,643,576,0 1,58,269,611,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/legoimg000040.jpg 19,61,71,111,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_005605.jpg 704,176,831,309,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_001032.jpg 305,348,342,369,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_005799.jpg 202,32,453,294,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/coca-colaimg000717.jpg 46,175,100,343,0 66,168,99,180,0 228,289,264,306,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000622_57.jpg 506,179,901,261,0 530,1050,890,1405,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/CVSimg000114.jpg 59,118,108,157,0 400,104,465,153,0 278,178,333,187,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000431_37.jpg 1,1,135,49,0 141,109,167,134,0 117,113,134,133,0 11,158,37,192,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/IBM_sportslogo_54.jpg 106,254,316,346,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_002571.jpg 531,425,706,698,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/budweiserimg000231.jpg 206,206,242,232,0 9,81,110,118,0 13,264,91,295,0 336,83,433,118,0 669,82,773,118,0 667,266,766,298,0 168,3,241,34,0 321,402,359,418,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_004670.jpg 268,382,549,558,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_001297.jpg 373,252,424,302,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_004883.jpg 645,433,769,562,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000277_83.jpg 531,394,552,417,0 741,389,765,414,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000255_63.jpg 273,409,288,425,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/flickrlogo27_3189246589.jpg 254,63,310,125,0 257,162,314,219,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/wellsfargoimg000096.jpg 192,334,1280,679,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000049_40.jpg 1102,714,1167,788,0 1466,731,1499,768,0 1704,690,1735,721,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/kiaimg000037.jpg 347,212,362,218,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_002838.jpg 235,319,355,340,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/bemwirelessimg000048.jpg 80,146,98,154,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/Belgalogos_07585294.jpg 266,415,500,493,0 286,342,347,388,0 215,885,256,943,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/BMWimg000439.jpg 136,40,241,145,0 293,481,335,522,0 135,344,150,359,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_000001.jpg 427,284,514,365,0 167,396,228,493,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/uniqloimg000041.jpg 449,311,691,579,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/3481398358.jpg 417,365,608,551,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/essoimg000160.jpg 141,182,190,218,0 365,223,414,246,0 429,333,451,342,0 544,345,569,354,0 600,343,625,354,0 142,224,174,240,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_001203.jpg 496,201,550,256,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/145074777.jpg 48,54,445,301,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/obey31.jpg 93,153,211,198,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/hmimg000002.jpg 907,33,1119,176,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/52763199.jpg 366,110,485,223,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000428_57.jpg 164,279,876,526,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/adidasimg000267.jpg 386,180,420,211,0 349,182,382,207,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/targetimg000417.jpg 342,51,858,174,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/3853351074.jpg 251,186,728,450,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/1520528266.jpg 732,409,772,454,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/pepsiimg000466.jpg 288,70,578,157,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/amazon24.jpg 578,502,685,535,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000463_107.jpg 165,191,183,212,0 110,21,127,43,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000361_64.jpg 400,917,543,984,0 1418,1220,1442,1263,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/2835769712.jpg 172,455,282,569,0 169,275,282,366,0 519,489,659,626,0 728,529,816,592,0 395,249,521,377,0 662,149,734,244,0 768,251,866,358,0 340,152,404,217,0 946,51,980,163,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/Belgalogos_07642463.jpg 318,200,345,222,0 453,208,480,227,0 347,200,454,225,0 432,396,580,435,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/4463342462.jpg 227,190,458,338,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_004763.jpg 148,412,385,533,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/heinekenimg000549.jpg 358,257,564,304,0 245,197,284,408,0 582,325,649,350,0 140,328,194,348,0 689,191,727,406,0 367,129,454,219,0 584,271,627,311,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/IBM_sportslogo_63.jpg 2,2,432,386,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_000352.jpg 813,139,879,257,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_000682.jpg 114,292,257,458,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/FedEximg000397.jpg 185,199,364,270,0 783,69,855,96,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/canon30.jpg 707,24,839,58,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/HeraldSun_sportslogo_32.jpg 39,14,266,47,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000085_56.jpg 871,87,1164,279,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/flickrlogo27_2421405885.jpg 58,3,409,498,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_005236.jpg 419,615,536,711,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/motorola13.jpg 332,82,376,121,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000140_78.jpg 231,79,427,132,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000046_95.jpg 224,105,290,133,0 199,94,222,122,0 19,69,60,107,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_004704.jpg 103,549,318,712,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/niveaimg000298.jpg 77,209,107,221,0 151,198,183,211,0 236,190,270,204,0 376,193,405,204,0 428,208,458,222,0 471,207,502,219,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000126_72.jpg 136,233,162,255,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/redbullimg000507.jpg 410,95,485,232,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000083_36.jpg 428,720,1084,982,0 1443,711,1838,844,0 1566,572,1713,692,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/redbullimg000712.jpg 425,103,543,169,0 373,44,548,114,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/2987165312.jpg 370,61,512,250,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000191_79.jpg 288,425,388,763,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000027_47.jpg 1225,358,1299,416,0 249,193,726,369,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_007467.jpg 312,634,408,726,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000015_79.jpg 162,791,588,898,0 1166,613,1241,920,0 1164,960,1243,1166,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/Jurlique_sportslogo_28.jpg 270,189,494,244,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_005715.jpg 470,272,630,499,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000435_20.jpg 440,302,495,325,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000249_69.jpg 871,676,983,764,0 425,919,551,988,0 1394,1061,1453,1108,0 1890,1338,1940,1369,0 800,1529,816,1541,0 1025,1550,1041,1560,0 1655,1553,1676,1564,0 2157,1580,2196,1603,0 3036,1661,3085,1683,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/flickrlogo27_4387407495.jpg 23,105,319,268,0 339,78,429,197,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_002788.jpg 93,453,168,492,0 662,268,898,384,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000043_75.jpg 92,184,302,269,0 364,161,538,232,0 166,134,225,175,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/burgerkingimg000117.jpg 228,177,322,294,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/redbullimg000192.jpg 287,170,317,182,0 315,299,344,314,0 412,291,443,305,0 466,291,498,304,0 228,307,254,320,0 155,312,190,322,0 278,152,331,170,0 150,294,202,311,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000108_10.jpg 37,171,794,317,0 316,127,354,142,0 249,135,286,150,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_007070.jpg 273,532,496,792,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_000751.jpg 408,229,631,425,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/flickrlogo27_4043571759.jpg 325,90,348,115,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_002176.jpg 77,322,263,854,0 275,578,403,641,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/WilliamHill_sportslogo_17.jpg 228,58,646,168,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/louisvuittonimg000084.jpg 692,1062,777,1128,0 933,1054,1018,1122,0 1181,1052,1262,1124,0 716,1232,796,1290,0 947,1232,1022,1292,0 1179,1228,1252,1283,0 800,937,832,971,0 1126,941,1167,967,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/Belgalogos_07706490.jpg 452,571,522,643,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/caterpillarimg000091.jpg 329,223,356,251,0 768,319,791,339,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/amazon23.jpg 277,109,399,160,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000016_32.jpg 373,91,432,131,0 341,346,458,391,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000423_41.jpg 298,437,467,456,0 571,285,684,317,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_001490.jpg 79,112,186,303,0 46,790,238,883,0 94,505,208,772,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_004618.jpg 427,292,585,394,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/hyundai17.jpg 200,51,398,152,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/4815859948.jpg 683,464,951,751,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000130_101.jpg 34,111,624,269,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_007564.jpg 349,518,419,620,0 350,273,427,345,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000178_86.jpg 111,38,189,69,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/budweiserimg000118.jpg 1570,211,1755,312,0 1546,947,1754,1051,0 1563,359,1755,465,0 1547,515,1755,621,0 1555,648,1755,757,0 1552,804,1754,894,0 384,453,487,513,0 1364,944,1539,1042,0 1387,80,1557,186,0 514,130,790,282,0 890,360,1103,478,0 82,113,325,247,0 1266,303,1394,362,0 892,68,1103,195,0 888,218,1100,330,0 1119,75,1287,185,0 890,507,1092,610,0 892,651,1092,759,0 898,793,1096,904,0 892,931,1093,1054,0 1102,788,1257,885,0 1099,941,1220,1052,0 1570,78,1755,171,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_001641.jpg 309,180,427,277,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/IKEAimg000050.jpg 835,1,940,68,0 325,223,347,247,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/Hisense_sportslogo_17.jpg 68,22,550,108,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000138_104.jpg 192,488,214,511,0 195,557,214,579,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_000828.jpg 45,33,354,532,0 452,26,763,535,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000114_36.jpg 321,271,935,796,0 1071,461,1756,683,0 1245,176,1530,415,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000210_63.jpg 376,81,480,158,0 374,167,478,187,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/allettimg000000.jpg 116,77,161,91,0 227,279,326,321,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/kiaimg000141.jpg 122,160,208,204,0 21,214,31,242,0 138,390,213,411,0 572,200,586,209,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/armani26.jpg 172,366,218,390,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000063_28.jpg 246,253,281,270,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_005342.jpg 140,60,867,442,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000089_20.jpg 313,342,357,361,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_006567.jpg 403,433,453,487,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/flickrlogo27_3284636128.jpg 406,106,450,125,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000501_4.jpg 1610,257,1723,330,0 882,490,962,578,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_002586.jpg 141,350,253,525,0 252,333,345,492,0 345,316,430,462,0 428,295,509,429,0 508,283,580,406,0 578,266,641,384,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/accentureimg000047.jpg 148,41,247,90,0 392,235,441,252,0 327,204,382,216,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_001626.jpg 847,586,915,685,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_000880.jpg 634,90,758,407,0 465,83,548,347,0 370,72,449,296,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/lexusimg000172.jpg 399,171,420,188,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/mercedesbenzimg000116.jpg 304,314,558,355,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000480_4.jpg 243,75,289,111,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/aldiimg000172.jpg 303,72,360,149,0 456,59,473,141,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_005838.jpg 385,164,628,412,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/flickrlogo27_246526320.jpg 220,121,255,157,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/marlboro7.jpg 342,555,463,626,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000043_87.jpg 163,103,379,318,0 5,32,413,117,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/michelin11.jpg 640,190,935,391,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_006376.jpg 292,417,505,640,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_007798.jpg 551,312,624,417,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_007572.jpg 128,397,207,465,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_006211.jpg 175,33,711,597,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000051_61.jpg 141,3226,275,3359,0 2097,3178,2338,3359,0 976,1985,1013,2031,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_000778.jpg 27,527,248,902,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000134_63.jpg 277,258,361,279,0 223,244,272,279,0 222,291,259,300,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/chanelimg000125.jpg 119,287,294,325,0 394,557,563,590,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/suzuki23.jpg 205,256,225,284,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_007092.jpg 434,139,561,235,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/flickrlogo27_788959598.jpg 118,255,260,407,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/Belgalogos_07702958.jpg 398,241,425,278,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/Belgalogos_07648021.jpg 465,443,533,483,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/BMWimg000048.jpg 7,262,35,272,0 200,406,225,416,0 9,273,32,280,0 417,524,444,550,0 171,119,179,125,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_002622.jpg 503,166,734,457,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/santanderimg000085.jpg 380,11,407,36,0 412,16,508,35,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/essoimg000069.jpg 718,39,832,139,0 245,255,358,291,0 730,500,753,510,0 721,403,805,439,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_004228.jpg 376,205,579,287,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/heinekenimg000196.jpg 115,110,203,129,0 142,167,174,322,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/hyundaiimg000223.jpg 378,322,393,332,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/3370503898.jpg 222,198,924,619,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/allianzimg000065.jpg 181,184,210,215,0 232,211,239,240,0 98,191,176,210,0 216,197,233,230,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/bemwirelessimg000126.jpg 94,358,167,406,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000171_40.jpg 7,236,35,248,0 89,330,106,340,0 559,359,584,382,0 424,301,444,318,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/burgerkingimg000399.jpg 390,335,512,456,0 460,144,505,161,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/5008965281.jpg 151,152,192,194,0 461,144,475,169,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/Belgalogos_07599328.jpg 315,331,460,426,0 350,279,395,300,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000093_67.jpg 1201,719,1252,752,0 346,480,356,491,0 1057,251,1113,286,0 1182,249,1234,282,0 230,249,286,286,0 354,251,411,286,0 484,249,534,283,0 606,248,661,287,0 731,250,785,282,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000125_6.jpg 43,74,99,136,0 189,152,204,173,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000262_98.jpg 174,76,378,261,0 475,10,620,183,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000027_71.jpg 328,269,391,333,0 396,267,617,328,0 1,263,37,301,0 52,600,82,625,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000002_26.jpg 2218,2545,2868,2792,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/3532155748.jpg 429,133,553,254,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/huaweiimg000236.jpg 71,214,624,345,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/KIA_sportslogo_47.jpg 42,188,300,318,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/FedEximg000021.jpg 992,162,1069,215,0 726,128,764,146,0 757,421,783,453,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/volkswagenimg000595.jpg 886,279,953,322,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/flickrlogo27_413894023.jpg 80,85,371,271,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/heinekenimg000160.jpg 66,140,138,157,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/coca-colaimg000045.jpg 53,148,92,164,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/flickrlogo27_1263617360.jpg 3,5,69,56,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000352_102.jpg 389,47,545,141,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/FedEximg000383.jpg 185,174,262,214,0 314,182,350,209,0 93,172,115,184,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000286_50.jpg 590,42,706,100,0 899,235,940,270,0 190,416,222,432,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_003492.jpg 582,285,730,330,0 521,357,555,369,0 159,271,216,291,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000210_36.jpg 256,440,349,530,0 284,695,374,786,0 655,736,744,831,0 156,563,227,647,0 416,374,483,434,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/276036355.jpg 252,182,363,303,0 412,378,706,531,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/heinekenimg000413.jpg 602,255,611,294,0 590,371,621,381,0 373,374,408,384,0 290,258,298,293,0 443,400,502,414,0 512,383,548,393,0 186,433,720,508,0 466,184,480,251,0 385,246,395,287,0 524,228,533,276,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_005071.jpg 267,236,321,302,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/5143984503.jpg 355,182,449,278,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/rbc1.jpg 337,19,750,563,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000259_54.jpg 27,54,150,97,0 103,58,141,70,0 135,21,218,30,0 44,259,135,293,0 164,134,206,146,0 119,235,150,242,0 201,156,217,161,0 140,26,168,30,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/nissanimg000087.jpg 178,75,223,123,0 431,128,491,154,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/starbucksimg000008.jpg 382,11,631,264,0 1061,448,1094,562,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/allianzimg000061.jpg 569,211,607,249,0 461,210,565,242,0 287,269,303,303,0 302,259,311,300,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000190_60.jpg 265,192,289,203,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000248_84.jpg 174,100,206,135,0 267,163,343,184,0 96,107,128,141,0 120,188,156,196,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/HeraldSun_sportslogo_93.jpg 55,49,481,114,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/MK6.jpg 374,541,426,595,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000003_92.jpg 109,17,448,180,0 447,113,530,198,0 159,351,211,367,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/chanelimg000189.jpg 189,23,272,45,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_006923.jpg 764,441,833,526,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/goodyear29.jpg 171,191,799,332,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/Belgalogos_07707098.jpg 480,194,571,224,0 498,379,534,417,0 404,370,446,408,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000031_31.jpg 376,202,419,229,0 200,229,226,248,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/OPTUS_sportslogo_54.jpg 458,182,867,327,0 360,33,520,190,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000013_86.jpg 841,763,1323,884,0 1538,809,1906,873,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_007046.jpg 225,245,292,324,0 857,361,979,448,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000692_44.jpg 243,349,756,714,0 443,47,769,239,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/nescafeimg000115.jpg 218,168,249,291,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_007481.jpg 358,478,457,574,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/OPTUS_sportslogo_81.jpg 413,21,521,86,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/3979622729.jpg 162,92,348,223,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/caterpillarimg000035.jpg 365,358,403,401,0 769,441,799,476,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/allianzimg000026.jpg 906,343,1003,439,0 419,213,470,334,0 610,248,884,400,0 282,306,411,521,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/346115613.jpg 209,138,275,214,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_007141.jpg 460,201,565,281,0 253,335,380,545,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/5077581837.jpg 439,177,481,237,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/audiimg000276.jpg 454,190,482,201,0 533,374,577,391,0 90,395,111,403,0 538,391,572,402,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/2558635810.jpg 14,244,127,377,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_007271.jpg 7,9,1021,1023,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/fritolaysimg000087.jpg 140,237,319,284,0 353,222,496,273,0 494,215,659,282,0 298,23,413,108,0 465,50,572,137,0 135,34,263,103,0 592,34,709,112,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_005374.jpg 460,244,569,302,0 211,401,328,467,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_004296.jpg 347,541,388,561,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/londonunderground32.jpg 157,39,476,202,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/IKEAimg000041.jpg 21,1944,150,2053,0 605,2111,919,2253,0 2776,1897,2915,1986,0 2951,1896,3019,1984,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/MediBank_sportslogo_34.jpg 24,97,222,191,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_005517.jpg 420,272,471,305,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/ANZ_sportslogo_94.jpg 308,56,618,428,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_002802.jpg 151,97,404,192,0 789,187,860,223,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/shellimg000361.jpg 100,20,134,51,0 383,257,397,268,0 139,19,293,44,0 475,169,512,205,0 113,171,148,201,0 595,8,620,36,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_000294.jpg 439,233,500,318,0 597,239,625,324,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000013_5.jpg 54,87,107,113,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/soundcloud1.jpg 216,11,273,44,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/redbullimg000622.jpg 215,160,265,177,0 199,126,278,158,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_003774.jpg 357,351,383,391,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/amazonimg000009.jpg 218,141,286,165,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000203_63.jpg 154,290,182,311,0 154,310,183,318,0 497,291,525,311,0 495,311,524,319,0 485,181,505,236,0 484,236,506,255,0 243,251,260,269,0 225,257,237,271,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/chanel58.jpg 247,248,283,278,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/aldiimg000173.jpg 80,76,180,103,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/oracle20.jpg 325,365,543,421,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/4569812618.jpg 278,215,464,277,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/aralimg000014.jpg 282,288,323,306,0 146,540,171,585,0 447,569,467,601,0 1198,563,1239,605,0 1093,768,1124,781,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/schwinn31.jpg 16,4,246,238,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/Pampersimg000052.jpg 221,52,304,100,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_001209.jpg 416,614,455,705,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000104_96.jpg 1353,387,1446,473,0 1785,565,1858,623,0 821,828,849,901,0 874,887,923,902,0 885,870,911,882,0 876,860,900,871,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/OPTUS_sportslogo_22.jpg 22,32,423,156,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/recycling12.jpg 102,133,138,160,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/budweiserimg000300.jpg 44,26,815,242,0 299,188,376,233,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000103_81.jpg 507,39,613,77,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/prada48.jpg 222,176,431,214,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/ANZ_sportslogo_37.jpg 636,334,828,434,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/nasa10.jpg 139,332,183,358,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/Belgalogos_07602630.jpg 234,369,388,426,0 236,742,371,786,0 427,681,525,786,0 274,813,532,920,0 314,624,416,662,0 230,693,360,733,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/Head_sportslogo_53.jpg 110,90,293,234,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/shellimg000055.jpg 75,10,229,153,0 1003,48,1115,182,0 52,512,91,528,0 208,195,235,224,0 91,181,200,216,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/tommyhilfiger8.jpg 373,565,579,744,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_007096.jpg 307,108,428,197,0 497,150,660,324,0 129,416,297,586,0 469,389,593,489,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_005777.jpg 470,469,516,518,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/Belgalogos_07597964.jpg 371,219,435,270,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000163_37.jpg 34,10,101,73,0 128,35,327,110,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000097_67.jpg 417,247,523,335,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/OPTUS_sportslogo_98.jpg 423,275,565,345,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/coca-colaimg000307.jpg 277,151,312,174,0 349,185,374,212,0 76,150,122,180,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000348_102.jpg 1096,717,1158,781,0 561,298,592,331,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/shellimg000093.jpg 485,432,707,697,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000403_83.jpg 802,442,896,506,0 226,343,256,372,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/canonimg000182.jpg 137,89,189,101,0 433,89,482,101,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/Belgalogos_07576306.jpg 256,513,373,560,0 255,437,326,490,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000230_6.jpg 66,331,113,478,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/volkswagenimg000423.jpg 507,252,530,283,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000106_45.jpg 105,78,293,128,0 55,174,299,233,0 28,180,35,248,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/nissan15.jpg 213,160,258,185,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000047_88.jpg 133,231,167,243,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000071_16.jpg 92,216,170,295,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_001630.jpg 426,99,482,188,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_005336.jpg 111,64,456,274,0 149,447,480,645,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/1447353921.jpg 517,236,582,316,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/lexusimg000026.jpg 64,249,88,269,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000013_96.jpg 920,305,1060,447,0 971,813,984,836,0 314,825,331,844,0 531,859,548,876,0 1143,853,1156,874,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/unitednations2.jpg 204,141,331,237,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/250147017.jpg 413,298,592,481,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/460935602.jpg 216,442,290,532,0 639,473,689,542,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/hyundaiimg000214.jpg 472,19,581,78,0 431,171,447,183,0 453,81,598,106,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/gilletteimg000103.jpg 86,216,117,227,0 431,241,502,262,0 643,180,707,204,0 285,316,317,326,0 213,309,320,355,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/hyundaiimg000528.jpg 372,166,396,181,0 374,213,407,222,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_005002.jpg 409,154,468,190,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/niveaimg000339.jpg 41,69,88,83,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000329_51.jpg 223,33,451,121,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000124_53.jpg 28,85,306,208,0 261,33,305,62,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/HH45.jpg 372,211,425,245,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/4562975399.jpg 698,76,776,144,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/McDonaldsimg000622.jpg 802,651,916,749,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/chevroletimg000086.jpg 226,72,262,89,0 179,233,197,241,0 413,257,433,267,0 1,225,14,232,0 265,68,377,89,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/targetimg000460.jpg 820,120,912,285,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_002520.jpg 4,593,220,946,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/microsoft9.jpg 293,301,309,318,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/marlboroimg000154.jpg 402,89,743,188,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/redbullimg000093.jpg 439,106,485,133,0 539,79,579,110,0 1,212,44,243,0 111,181,168,215,0 225,157,274,189,0 309,142,374,176,0 512,51,576,90,0 78,144,163,194,0 198,124,272,169,0 285,100,382,151,0 407,75,484,115,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/Fly_Emirates_sportslogo_98.jpg 385,123,518,165,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000163_91.jpg 1073,744,1147,791,0 344,644,587,769,0 188,668,262,689,0 160,667,192,694,0 111,771,160,793,0 761,745,823,777,0 703,755,754,793,0 387,758,575,877,0 374,768,440,814,0 309,704,355,725,0 1066,900,1132,922,0 577,727,642,746,0 162,719,254,757,0 926,831,1050,870,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/chanelimg000475.jpg 220,185,290,198,0 126,332,379,362,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/Belgalogos_07655996.jpg 132,415,205,456,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/4345723055.jpg 61,117,660,671,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/heinekenimg000115.jpg 156,121,235,142,0 178,442,274,462,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000069_88.jpg 186,170,221,178,0 459,199,483,206,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/mastercardimg000029.jpg 283,209,380,270,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/cartierimg000179.jpg 197,262,271,274,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000140_8.jpg 1478,251,1608,313,0 1610,268,1648,325,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/pampers22.jpg 59,94,104,122,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/legoimg000121.jpg 1142,360,1187,415,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000020_17.jpg 448,277,586,314,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000021_87.jpg 981,422,1057,497,0 947,532,1082,567,0 527,1097,877,1221,0 440,1084,527,1258,0 1662,998,1831,1162,0 1637,1171,1850,1226,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/hyundaiimg000336.jpg 78,303,109,324,0 390,381,399,393,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/visa21.jpg 716,449,979,669,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/144140340.jpg 86,150,743,804,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000182_102.jpg 97,97,110,106,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000179_38.jpg 386,484,471,504,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/aralimg000122.jpg 7,185,86,292,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/luxottica2.jpg 12,33,609,179,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/Jurlique_sportslogo_87.jpg 29,40,128,69,0 186,322,251,342,0 127,462,179,478,0 262,462,315,479,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/3325850531.jpg 455,123,903,386,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/rolex6.jpg 286,150,306,172,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/coca-colaimg000622.jpg 148,309,286,391,0 306,324,437,393,0 469,335,578,393,0 591,334,694,380,0 1,289,83,353,0 578,81,607,102,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000545_107.jpg 108,160,148,213,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/huaweiimg000177.jpg 233,43,290,91,0 331,280,372,308,0 294,48,417,76,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_001466.jpg 313,162,404,298,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000083_99.jpg 151,1,440,49,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/flickrlogo27_3860951501.jpg 210,194,295,250,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/allianzimg000393.jpg 300,184,313,198,0 72,158,83,174,0 264,184,299,196,0 80,162,101,178,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/ROLEX_sportslogo_81.jpg 252,175,302,233,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/huaweiimg000174.jpg 81,37,202,251,0 85,253,209,350,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/hsbc1.jpg 270,111,421,224,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/audiimg000334.jpg 641,358,717,393,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/Jurlique_sportslogo_92.jpg 47,133,106,156,0 182,133,246,153,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/blizzardentertainment17.jpg 247,77,477,285,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/flickrlogo27_170557401.jpg 2,150,494,228,0 119,294,171,312,0 242,301,293,317,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_007522.jpg 478,22,797,575,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/Belgalogos_07706946.jpg 281,91,365,136,0 611,151,693,180,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000150_60.jpg 615,338,658,373,0 581,442,628,453,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/MediBank_sportslogo_11.jpg 240,80,770,258,0 329,300,845,450,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/levis15.jpg 465,533,499,552,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000223_64.jpg 378,322,393,332,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000190_6.jpg 3323,1501,3483,1787,0 4712,1572,4780,1715,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/Nike_sportslogo_47.jpg 76,230,276,326,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/Lacoste_sportslogo_28.jpg 558,82,759,110,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/amazon28.jpg 1021,522,1121,549,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/burgerkingimg000386.jpg 35,80,592,151,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000130_70.jpg 113,207,143,220,0 1,208,103,235,0 544,317,603,363,0 449,215,508,265,0 247,175,275,191,0 174,251,222,269,0 301,302,335,318,0 189,161,233,197,0 292,139,323,170,0 386,169,435,220,0 408,326,461,359,0 198,309,256,331,0 17,264,69,283,0 22,317,67,350,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/HH49.jpg 295,154,334,175,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/niveaimg000120.jpg 187,92,313,218,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_000468.jpg 713,548,734,578,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/roleximg000042.jpg 610,222,657,263,0 566,242,634,305,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/Belgalogos_07597981.jpg 431,168,462,187,0 385,210,494,276,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/FedEximg000017.jpg 215,166,271,176,0 395,55,416,59,0 393,134,415,139,0 395,215,416,221,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/homedepot5.jpg 11,54,55,98,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/redbullimg000129.jpg 38,27,169,74,0 263,353,409,419,0 480,216,520,230,0 526,390,565,429,0 567,344,606,379,0 22,80,183,119,0 207,267,468,368,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000103_99.jpg 61,9,290,75,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_005507.jpg 427,375,571,469,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/FedEximg000141.jpg 272,157,459,229,0 356,36,384,79,0 490,160,576,218,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_005862.jpg 674,253,800,425,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/bottegaveneta19.jpg 787,541,840,724,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000420_64.jpg 640,194,678,216,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000103_35.jpg 263,83,577,199,0 74,47,216,206,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/3049479172.jpg 162,421,327,667,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/hyundaiimg000383.jpg 115,235,144,251,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/adidasimg000508.jpg 800,392,823,412,0 808,465,880,512,0 795,412,815,421,0 809,515,883,535,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/WilliamHill_sportslogo_16.jpg 2,1,604,396,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/Belgalogos_07603927.jpg 384,347,473,407,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/basf8.jpg 31,104,151,136,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_002787.jpg 140,368,355,454,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/McDonaldsimg000277.jpg 25,88,36,115,0 183,80,209,108,0 449,77,460,92,0 182,78,306,112,0 25,85,72,113,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/CVSimg000123.jpg 362,71,408,93,0 111,92,127,113,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/gilletteimg000376.jpg 84,104,193,130,0 77,370,379,448,0 714,25,838,74,0 704,240,752,260,0 759,480,780,527,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/adidasimg000098.jpg 813,172,933,227,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/Belgalogos_07687252.jpg 331,357,382,389,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/generalelectric12.jpg 330,472,465,609,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000066_48.jpg 188,139,784,234,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_006390.jpg 420,359,581,545,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/19102117.jpg 156,124,309,180,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000411_107.jpg 733,37,812,88,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_000912.jpg 674,562,716,603,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/Belgalogos_07680447.jpg 468,33,497,48,0 641,298,666,324,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/Lacoste_sportslogo_90.jpg 1027,23,1155,93,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/skechers43.jpg 186,288,289,330,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/Hisense_sportslogo_100.jpg 175,88,314,118,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000014_62.jpg 124,56,203,99,0 358,33,398,83,0 203,48,247,78,0 398,67,419,96,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/panasonicimg000150.jpg 516,46,963,125,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000006_4.jpg 218,12,231,22,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/reebokimg000102.jpg 202,148,216,174,0 166,152,204,172,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/bemwirelessimg000180.jpg 173,42,262,71,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000228_91.jpg 679,106,810,293,0 118,173,322,227,0 174,146,407,193,0 257,128,437,164,0 414,10,669,35,0 64,347,243,446,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/mercedesbenzimg000062.jpg 48,27,251,235,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/aldiimg000030.jpg 155,39,182,87,0 265,39,289,89,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_007055.jpg 256,376,534,621,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000017_51.jpg 215,166,271,176,0 395,55,416,59,0 393,134,415,139,0 395,215,416,221,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/Belgalogos_07597463.jpg 313,517,354,552,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/3131679980.jpg 422,45,471,102,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/legoimg000044.jpg 60,103,124,173,0 16,66,59,76,0 1,87,15,128,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_003221.jpg 277,121,429,265,0 69,717,142,790,0 580,706,657,778,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_007666.jpg 899,228,946,293,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/allianzimg000164.jpg 2423,1492,2586,1669,0 2045,1537,2413,1692,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/flickrlogo27_2472817996.jpg 2,4,499,106,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/gilletteimg000153.jpg 37,55,50,99,0 231,186,298,206,0 38,54,79,166,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_001887.jpg 378,378,648,462,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_002643.jpg 442,564,651,771,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/walmart20.jpg 354,522,436,614,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/HH36.jpg 502,431,519,441,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/olympics10.jpg 333,428,414,464,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/adidasimg000170.jpg 444,126,489,157,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/canonimg000206.jpg 520,415,610,445,0 541,662,651,696,0 1020,781,1095,804,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000132_16.jpg 113,53,164,84,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/ANZ_sportslogo_60.jpg 714,19,838,62,0 272,22,397,64,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/benrusimg000005.jpg 440,276,551,295,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/heinekenimg000286.jpg 421,46,498,101,0 236,178,306,226,0 489,259,541,315,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/hyundai21.jpg 59,196,76,210,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/audiimg000037.jpg 915,113,1104,307,0 812,803,830,811,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/744776649.jpg 39,108,330,226,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_000770.jpg 515,613,559,676,0 555,622,596,689,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/Hisense_sportslogo_72.jpg 418,361,639,446,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/caterpillarimg000002.jpg 745,379,784,405,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/reebokimg000064.jpg 278,112,303,127,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/supreme51.jpg 208,87,335,149,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/reebokimg000009.jpg 373,140,425,186,0 334,449,343,459,0 870,303,879,313,0 214,147,373,184,0 308,450,335,459,0 844,303,870,312,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000171_67.jpg 225,447,587,683,0 822,399,1229,670,0 1466,445,1831,683,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000081_35.jpg 78,96,148,122,0 50,100,74,127,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/357964632.jpg 384,232,613,655,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/Belgalogos_07596212.jpg 517,363,573,379,0 314,322,372,347,0 424,271,490,297,0 385,185,525,221,0 375,340,508,376,0 535,412,564,428,0 396,285,510,324,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_005929.jpg 781,106,971,292,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/OPTUS_sportslogo_73.jpg 118,245,275,306,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000457_64.jpg 1049,627,1081,656,0 634,761,644,780,0 1033,723,1050,735,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000021_23.jpg 132,391,895,537,0 921,417,1117,549,0 425,617,491,653,0 632,686,689,700,0 691,687,707,702,0 1,151,84,414,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/bankofamericaimg000125.jpg 156,13,189,33,0 55,23,155,43,0 168,109,213,127,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_006755.jpg 627,247,729,391,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/bankofamerica22.jpg 666,37,728,74,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/volkswagenimg000408.jpg 111,299,136,329,0 395,445,404,463,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/niveaimg000167.jpg 428,202,597,376,0 727,259,956,402,0 142,559,256,668,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_007442.jpg 95,586,658,998,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/santanderimg000058.jpg 166,153,254,235,0 432,126,1166,768,0 260,168,582,227,0 857,558,1112,678,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/fritolaysimg000003.jpg 498,76,640,162,0 27,241,125,307,0 382,176,494,248,0 248,302,335,327,0 27,165,175,213,0 144,215,240,268,0 384,101,483,158,0 516,200,640,257,0 253,200,359,245,0 362,264,457,327,0 187,94,332,154,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000101_50.jpg 703,167,793,198,0 252,246,289,260,0 253,58,300,106,0 7,176,64,193,0 452,270,480,294,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000051_35.jpg 303,74,344,89,0 287,73,302,90,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_002317.jpg 390,389,528,584,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/pepsiimg000494.jpg 259,81,347,195,0 1,338,347,429,0 6,1,347,73,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_003016.jpg 207,47,568,109,0 212,5,560,34,0 386,217,456,249,0 233,421,339,448,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/nissan9.jpg 185,214,236,250,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_007578.jpg 114,363,373,655,0 402,37,505,166,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/3007169712.jpg 179,108,455,288,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/colgateimg000164.jpg 167,210,345,340,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000416_57.jpg 65,28,75,71,0 47,136,93,148,0 48,111,68,130,0 423,17,500,151,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/ROLEX_sportslogo_70.jpg 69,13,112,54,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000206_98.jpg 396,684,550,704,0 248,687,288,707,0 353,712,393,757,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/barbie20.jpg 124,288,231,354,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_006802.jpg 938,514,1017,624,0 582,562,618,597,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/aralimg000132.jpg 113,53,164,84,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/adidasimg000335.jpg 231,239,256,259,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/marlboroimg000099.jpg 168,192,205,220,0 99,216,224,280,0 310,265,438,328,0 289,25,496,44,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/gillette30.jpg 9,11,85,35,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000745_91.jpg 149,62,223,78,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/McDonaldsimg000165.jpg 134,167,155,187,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/BlackMore_sportslogo_67.jpg 242,174,736,259,0 761,153,948,234,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/gilletteimg000245.jpg 944,579,1029,604,0 729,278,851,300,0 614,828,623,863,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/flickrlogo27_4576205927.jpg 33,103,171,243,0 179,102,313,242,0 321,100,459,236,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/hyundaiimg000421.jpg 188,337,218,353,0 446,336,466,348,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/1034987742.jpg 391,448,775,875,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/flickrlogo27_2989750063.jpg 2,5,145,52,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/homedepotimg000022.jpg 44,31,404,175,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/yamaha26.jpg 80,41,167,134,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/bionadeimg000100.jpg 1,72,152,132,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/bellodigitalimg000007.jpg 224,163,236,190,0 577,174,611,223,0 625,665,781,857,0 319,602,525,842,0 238,154,292,179,0 613,177,741,219,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/boeing29.jpg 260,288,296,326,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/heinekenimg000275.jpg 60,132,123,145,0 25,398,165,429,0 30,315,120,378,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000120_50.jpg 215,49,274,96,0 205,221,272,238,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/toyotaimg000260.jpg 235,77,255,94,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/starbucksimg000174.jpg 171,29,589,440,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000083_57.jpg 60,124,283,177,0 83,54,172,105,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/volkswagenimg000217.jpg 291,183,313,206,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/flickrlogo27_3785668123.jpg 321,293,460,430,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/bottegaveneta20.jpg 98,185,552,231,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000049_75.jpg 200,249,458,365,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/republican30.jpg 347,83,525,235,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/4688687012.jpg 860,231,912,301,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/ROLEX_sportslogo_88.jpg 299,92,466,212,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/shellimg000441.jpg 725,373,813,440,0 193,136,286,162,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000133_85.jpg 757,818,897,920,0 230,250,922,747,0 29,107,104,503,0 97,45,339,85,0 1225,48,1472,80,0 78,808,97,912,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/Belgalogos_07703069.jpg 278,159,363,208,0 207,466,247,488,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_007152.jpg 598,392,770,504,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000376_56.jpg 436,616,546,688,0 1034,609,1144,682,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_003564.jpg 273,219,395,313,0 725,352,790,398,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/targetimg000294.jpg 77,87,87,101,0 88,84,139,99,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/ANZ_sportslogo_49.jpg 517,189,651,259,0 439,323,481,347,0 835,290,916,323,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000203_91.jpg 390,225,474,253,0 393,256,446,280,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000097_60.jpg 146,167,161,180,0 132,197,148,202,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/coca-colaimg000684.jpg 522,370,1247,726,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/Nike_sportslogo_11.jpg 25,264,484,540,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/coca-colaimg000418.jpg 469,502,510,546,0 800,577,866,646,0 189,717,222,796,0 247,654,322,726,0 1052,547,1130,605,0 1140,227,1198,286,0 990,375,1047,415,0 128,399,188,451,0 605,554,694,613,0 604,190,649,234,0 382,755,471,794,0 65,468,140,501,0 538,731,583,823,0 584,371,614,453,0 449,227,496,277,0 224,476,298,510,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000237_77.jpg 163,8,370,181,0 783,51,914,229,0 692,741,759,808,0 1284,173,1364,299,0 983,141,1255,264,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/armitronimg000054.jpg 73,98,112,106,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_007159.jpg 895,457,958,500,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_006327.jpg 209,249,243,321,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_006367.jpg 22,303,490,767,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/niveaimg000162.jpg 603,285,671,316,0 37,207,68,220,0 229,245,251,254,0 358,269,376,279,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/4400516520.jpg 493,266,537,319,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/redbullimg000135.jpg 181,335,251,374,0 406,132,454,195,0 299,583,386,614,0 104,170,571,264,0 215,252,275,313,0 277,531,413,576,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000074_63.jpg 543,205,566,221,0 1806,211,1839,240,0 1803,236,1837,253,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_001473.jpg 264,33,847,609,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000008_97.jpg 204,155,265,171,0 465,136,529,150,0 694,357,825,391,0 431,61,525,86,0 24,20,130,45,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/hmimg000023.jpg 678,513,3506,2661,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_001131.jpg 440,255,483,299,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/philipsimg000046.jpg 787,378,856,395,0 251,381,305,395,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000103_102.jpg 405,403,455,441,0 121,438,163,465,0 107,451,121,469,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/hmimg000261.jpg 223,78,435,248,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_002201.jpg 213,346,496,498,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000013_37.jpg 198,43,240,105,0 398,66,418,97,0 89,179,226,323,0 418,73,508,111,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/kiaimg000249.jpg 871,676,983,764,0 425,919,551,988,0 1394,1061,1453,1108,0 1890,1338,1940,1369,0 800,1529,816,1541,0 1025,1550,1041,1560,0 1655,1553,1676,1564,0 2157,1580,2196,1603,0 3036,1661,3085,1683,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000221_82.jpg 250,621,500,813,0 323,417,410,474,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000242_83.jpg 62,20,135,85,0 816,617,837,640,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/469212275.jpg 368,519,682,979,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000039_50.jpg 301,233,344,249,0 411,317,437,325,0 437,314,448,325,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_007116.jpg 163,787,301,882,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000095_37.jpg 639,334,825,524,0 364,234,573,437,0 613,701,663,825,0 748,677,803,705,0 1022,673,1075,706,0 1200,681,1255,710,0 1498,689,1555,720,0 1683,677,1751,708,0 1455,681,1499,710,0 1322,688,1364,714,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/basf6.jpg 779,590,920,622,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/chevrolet17.jpg 114,414,197,451,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/fritolaysimg000034.jpg 203,260,271,332,0 225,179,247,202,0 280,153,331,208,0 365,173,388,197,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/Hisense_sportslogo_5.jpg 4,63,346,134,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/kelloggsimg000067.jpg 438,638,873,783,0 2001,661,2425,803,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_000065.jpg 547,357,600,397,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000099_49.jpg 10,20,128,69,0 202,644,242,661,0 254,188,283,204,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/netfliximg000103.jpg 507,39,613,77,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/niveaimg000133.jpg 179,147,207,180,0 21,158,41,188,0 433,96,477,137,0 279,264,304,274,0 133,122,184,139,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_004548.jpg 642,369,693,390,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000040_35.jpg 1054,707,1257,785,0 951,689,1041,787,0 1078,652,1106,667,0 1065,651,1078,670,0 413,245,472,267,0 863,296,924,327,0 1162,179,1303,242,0 1099,164,1150,223,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000367_84.jpg 59,58,83,69,0 103,55,129,66,0 153,57,179,66,0 199,56,225,65,0 254,85,278,93,0 31,282,54,291,0 157,291,182,300,0 276,301,300,310,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/FedEximg000178.jpg 49,127,88,162,0 6,116,21,152,0 49,163,92,179,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/boschimg000235.jpg 546,410,571,451,0 291,679,323,706,0 573,390,627,431,0 488,550,615,684,0 231,649,293,691,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/JacobsCreek_sportslogo_16.jpg 1,62,301,106,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/burgerkingimg000186.jpg 504,276,781,560,0 1663,1667,1888,1896,0 888,226,2620,508,0 1479,1294,1570,1349,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/nescafe18.jpg 423,35,752,151,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/essoimg000271.jpg 230,110,260,130,0 248,218,273,227,0 416,220,434,228,0 351,145,380,184,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/Belgalogos_07585319.jpg 324,708,507,821,0 435,563,509,659,0 317,594,384,630,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/volkswagenimg000322.jpg 318,249,341,281,0 60,152,73,171,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000244_36.jpg 152,845,691,1026,0 438,682,662,730,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/150412368.jpg 278,444,485,775,0 337,129,412,202,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000332_84.jpg 662,153,715,175,0 440,183,490,219,0 255,217,317,252,0 219,630,292,654,0 504,627,562,661,0 740,667,799,700,0 1038,664,1142,778,0 983,789,1015,807,0 1170,469,1238,538,0 1290,270,1358,335,0 1043,164,1110,226,0 904,145,969,210,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/Jurlique_sportslogo_79.jpg 15,99,133,130,0 234,232,342,268,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_001109.jpg 552,373,617,439,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000650_107.jpg 305,8,337,38,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/canonimg000192.jpg 213,220,260,234,0 530,26,600,43,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/coca-colaimg000122.jpg 370,455,635,606,0 815,270,873,299,0 219,519,333,602,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_002366.jpg 52,811,169,974,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/KIA_sportslogo_14.jpg 272,180,1542,820,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/lexus5.jpg 338,304,403,358,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_002862.jpg 382,373,615,466,0 725,244,800,282,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000533_64.jpg 705,459,735,479,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/levis28.jpg 370,457,501,507,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_000514.jpg 404,247,475,327,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/Yonex_sportslogo_61.jpg 507,518,587,572,0 22,142,107,185,0 27,238,105,275,0 21,327,112,370,0 24,427,110,465,0 24,521,107,562,0 207,182,365,235,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/heinekenimg000301.jpg 111,23,119,67,0 93,136,140,147,0 94,109,113,128,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/allianzimg000017.jpg 445,84,555,143,0 140,116,426,201,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/hersheyimg000013.jpg 310,90,427,145,0 100,322,144,382,0 74,73,181,159,0 224,238,291,263,0 459,391,521,423,0 382,260,430,356,0 244,388,336,459,0 183,156,256,203,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/heinekenimg000588.jpg 244,206,363,227,0 64,306,87,397,0 530,305,547,398,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/starbucksimg000010.jpg 244,107,277,159,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/mitsubishi27.jpg 525,405,565,434,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/redbullimg000586.jpg 542,243,576,296,0 554,244,593,314,0 128,179,186,201,0 363,203,424,228,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/jcrew3.jpg 330,113,531,151,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/fritolaysimg000030.jpg 351,116,479,226,0 105,125,253,193,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/heinekenimg000228.jpg 415,16,503,71,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/olympics11.jpg 567,194,886,286,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/subway26.jpg 128,9,591,135,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_003474.jpg 223,342,279,365,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000226_91.jpg 987,837,1209,879,0 1232,827,1423,861,0 600,66,886,232,0 1155,113,1648,508,0 507,82,559,103,0 482,30,556,86,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000105_82.jpg 499,22,570,63,0 481,250,548,303,0 309,185,337,228,0 254,257,342,319,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/coca-colaimg000798.jpg 94,95,142,117,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/aspirinimg000002.jpg 176,82,369,140,0 134,59,186,113,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/louisvuittonimg000164.jpg 488,223,537,284,0 488,401,545,458,0 488,564,539,619,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/uniqlo20.jpg 288,114,327,151,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/cvs21.jpg 631,76,820,192,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/4411686240.jpg 812,334,884,389,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_004824.jpg 229,196,836,397,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000190_38.jpg 316,116,414,148,0 292,245,360,265,0 190,366,202,412,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/logos32plus_001533.jpg 543,117,888,350,0 58,111,311,697,0 360,132,509,227,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/tmobileimg000086.jpg 468,174,529,218,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000531_44.jpg 118,261,258,310,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000044_103.jpg 274,76,306,112,0 308,75,333,113,0 
+/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/joined_data/img000355_87.jpg 561,18,607,61,0 448,161,478,191,0 449,193,477,204,0 

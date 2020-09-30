@@ -1,3 +1,6 @@
 model_weights/
 data/joined_data/
 src/keras_yolo3/yolo_weights_logos.h5
+data/logo_crops/
+src/__pycache__/
+data/__pycache__/

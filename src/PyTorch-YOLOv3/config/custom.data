@@ -1,0 +1,4 @@
+classes= 1
+train=/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/train.txt
+valid=/home/mario/Documents/Stanford/ML_Projects/Logo-Detector/data/val.txt
+names=PyTorch-YOLOv3/data/custom/classes.names

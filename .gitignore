@@ -4,3 +4,8 @@ src/keras_yolo3/yolo_weights_logos.h5
 data/logo_crops/
 src/__pycache__/
 data/__pycache__/
+src/checkpoints/
+src/logs/
+src/output/
+src/PyTorch-YOLOv3/weights/
+
